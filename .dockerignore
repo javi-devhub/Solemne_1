@@ -1,0 +1,29 @@
+# Ignorar entorno virtual
+.venv/
+
+# Ignorar cachés de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar cachés de pytest
+.pytest_cache/
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar configuraciones locales
+.env
+*.env
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de control de Git
+.git/
+.gitignore
+
+# Ignorar documentación y archivos no necesarios en la imagen
+README.md

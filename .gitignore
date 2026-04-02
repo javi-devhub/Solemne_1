@@ -1,0 +1,26 @@
+# Entornos virtuales
+.venv/
+venv/
+
+# Cachés de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Cachés de pytest
+.pytest_cache/
+
+# Archivos de logs
+*.log
+
+# Archivos de configuración locales
+.env
+*.env
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# uv lockfile (opcional, si prefieres que se genere en cada entorno)
+uv.lock

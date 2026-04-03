@@ -1,4 +1,4 @@
-# Entornos virtuales
+# Entorno virtual
 .venv/
 venv/
 
@@ -6,23 +6,6 @@ venv/
 __pycache__/
 *.py[cod]
 
-# Cachés de pytest
-.pytest_cache/
-
-# Archivos de logs
-*.log
-
 # Configuración local
 .env
 *.env
-
-# Archivos de sistema
-.DS_Store
-Thumbs.db
-
-# VS Code
-.vscode/
-
-# uv lockfile (ignorar si prefieres regenerarlo)
-uv.lock
-
